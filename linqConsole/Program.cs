@@ -7,7 +7,7 @@ namespace linqConsole
     {
         static void Main(string[] args)
         {
-            //Data source
+            //Data source jf
             String[] names = { "Bill", "Steve", "James", "Mohan"};
 
             //LINQ Query
